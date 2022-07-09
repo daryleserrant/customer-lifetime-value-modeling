@@ -1,1 +1,1 @@
-# customer-lifetime-value-modeling
+# Customer Lifetime Value Modeling
